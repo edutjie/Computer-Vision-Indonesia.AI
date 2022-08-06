@@ -131,3 +131,4 @@ dmypy.json
 # custom
 */*.pptx.pdf
 !Final Project.pptx.pdf
+steps.txt
