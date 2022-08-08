@@ -132,3 +132,4 @@ dmypy.json
 */*.pptx.pdf
 !Final Project.pptx.pdf
 steps.txt
+Copy_of_VGG_Implementation.ipynb
